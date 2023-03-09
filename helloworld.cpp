@@ -1,8 +1,7 @@
-#include <iostream>
-using namespace std;
+#include <iostream>//Edward Honor
 int main(){
-    string a;
-    cin >> a;
+    string a;//IDK what happend
+   std:: cin >> a; 
     
-    cout<< "hello world from " << a;
+   std::cout<< "hello world from " << a;
 }
