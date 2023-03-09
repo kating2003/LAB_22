@@ -1,8 +1,7 @@
 #include <iostream>
-using namespace std;
 int main(){
     string a;
-    cin >> a;
+   std:: cin >> a; 
     
-    cout<< "hello world from " << a;
+   std::cout<< "hello world from " << a;
 }
